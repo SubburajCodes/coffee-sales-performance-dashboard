@@ -81,11 +81,6 @@ This dashboard enables stakeholders to monitor sales performance, identify high-
 
 ---
 
-## Dashboard Preview
-
-![Coffee Sales Dashboard](dashboard.png)
-
----
 
 ## Author
 
